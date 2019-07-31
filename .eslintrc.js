@@ -4,15 +4,15 @@
 // const tsconfig = path.resolve(__dirname, 'tsconfig.json');
 
 module.exports = {
-  // parser: '@typescript-eslint/parser',
-  // parserOptions: {
-  //   project: tsconfig,
-  //   tsconfigRootDir: "."
-  // },
-  // plugins: [
-  //   "react-hooks",
-  //   "@typescript-eslint",
-  // ],
+  parser: '@typescript-eslint/parser',
+  parserOptions: {
+    project: tsconfig,
+    tsconfigRootDir: "."
+  },
+  plugins: [
+    "react-hooks",
+    // "@typescript-eslint",
+  ],
   extends: [
     "airbnb",
     // "plugin:@typescript-eslint/recommended",
@@ -25,9 +25,9 @@ module.exports = {
     "camelcase": "off",
 
     // TS RULES
-    // "@typescript-eslint/indent": ["error", 2],
-    // "@typescript-eslint/explicit-function-return-type": "off", // annoying to force return type with react
-    // "@typescript-eslint/no-empty-interface": "off",
+    "@typescript-eslint/indent": ["error", 2],
+    "@typescript-eslint/explicit-function-return-type": "off", // annoying to force return type with react
+    "@typescript-eslint/no-empty-interface": "off",
 
     // REACT RULES
     // "react/jsx-filename-extension": ["warn", {
