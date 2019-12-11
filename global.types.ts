@@ -1,4 +1,4 @@
-import { RuneStat } from './global.enums';
+import { RuneStat, Monster } from './global.enums';
 
 export interface Target {
   [target: string]: {
@@ -37,6 +37,7 @@ export interface Rune {
   prefix_eff: StatEffect;
   sec_eff: StatEffect[];
   extra: number;
+  unit?: Monster;
 }
 
 export interface Build {
@@ -58,4 +59,5 @@ export interface SumWarData {
 
 export interface UnitList {
   runes: Rune[],
+  unit_master_id: Monster;
 }
