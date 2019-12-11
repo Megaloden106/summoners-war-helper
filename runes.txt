@@ -1,0 +1,1012 @@
++12 Hero 5* Slot 1 Energy Rune ID: 28774918639 Owner: INV
+Main Stat:   99   ATK flat
+Prefix Stat: 4    SPD           -- (6)
+Sub Stat:    13   ATK%     - 0  -- (13/20)
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    9    CRate    - 0  -- (13/13)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 50/64/65 SPD: 6/33 CRate: 13/30 CDmg: 6/30 ATK%: 20/35 HP%: 19/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 19/39 S-DMG: 25/45 A-DMG: 39/45 D-DMG: 19/45 H-DMG: 38/45 T-DMG: 32/51 TANK: 19/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Hero 6* Slot 2 Energy Rune ID: 25915038731 Owner: INV
+Main Stat:   42   SPD
+Sub Stat:    13   DEF%     - 0  -- (13/20)
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    9    RES      - 0  -- (8/8)
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Synergy:                        -- (10)
+CV: 49/63/65 SPD: 0/29 CRate: 6/26 CDmg: 0/26 ATK%: 0/32 HP%: 19/32 DEF%: 20/32 ACC: 0/25 
+C-DMG: 6/39 S-DMG: 6/45 A-DMG: 6/45 D-DMG: 26/45 H-DMG: 25/45 T-DMG: 45/51 TANK: 39/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 5 Energy Rune ID: 27717112312 Owner: INV
+Main Stat:   1800 HP flat
+Prefix Stat: 6    CDmg          -- (8)
+Sub Stat:    12   RES      - 0  -- (10/10)
+Sub Stat:    5    SPD      - 0  -- (7/13)
+Sub Stat:    16   CRate    - 0  -- (22/22)
+Sub Stat:    8    ACC      - 0  -- (8/8)
+Synergy:                        -- (0)
+CV: 55/61/65 SPD: 13/33 CRate: 22/30 CDmg: 8/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 8/28 
+C-DMG: 30/39 S-DMG: 43/45 A-DMG: 30/45 D-DMG: 30/45 H-DMG: 30/45 T-DMG: 22/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Hero 6* Slot 4 Energy Rune ID: 24270929395 Owner: INV
+Main Stat:   58   CRate
+Prefix Stat: 18   ATK flat      -- (0)
+Sub Stat:    10   CDmg     - 0  -- (14/14)
+Sub Stat:    7    ATK%     - 0  -- (7/14)
+Sub Stat:    14   SPD      - 0  -- (20/25)
+Sub Stat:    11   DEF flat - 0  -- (3)
+Synergy:                        -- (7)
+CV: 48/63/65 SPD: 25/29 CRate: 0/26 CDmg: 14/26 ATK%: 14/32 HP%: 0/32 DEF%: 0/32 ACC: 0/25 
+C-DMG: 14/39 S-DMG: 39/45 A-DMG: 28/45 D-DMG: 17/45 H-DMG: 14/45 T-DMG: 3/51 TANK: 3/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Energy Rune ID: 28925439222 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Sub Stat:    13   SPD      - 0  -- (18/24)
+Sub Stat:    8    CDmg     - 0  -- (11/11)
+Sub Stat:    392  HP flat  - 0  -- (6)
+Synergy:                        -- (0)
+CV: 36/48/65 SPD: 24/33 CRate: 7/30 CDmg: 11/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 18/39 S-DMG: 42/45 A-DMG: 18/45 D-DMG: 18/45 H-DMG: 24/45 T-DMG: 13/51 TANK: 6/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Guard Rune ID: 21505563880 Owner: INV
+Main Stat:   118  ATK flat
+Prefix Stat: 6    ACC           -- (6)
+Sub Stat:    15   CRate    - 0  -- (21/21)
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Sub Stat:    8    RES      - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 52/64/65 SPD: 11/33 CRate: 21/30 CDmg: 0/30 ATK%: 0/35 HP%: 19/35 DEF%: 0/35 ACC: 6/28 
+C-DMG: 21/39 S-DMG: 32/45 A-DMG: 21/45 D-DMG: 21/45 H-DMG: 40/45 T-DMG: 40/51 TANK: 19/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 3 Energy Rune ID: 28677204945 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    5    ACC      - 0  -- (5/5)
+Sub Stat:    18   SPD      - 0  -- (25/31)
+Sub Stat:    5    HP%      - 0  -- (5/12)
+Sub Stat:    3    CRate    - 0  -- (4/4)
+Synergy:                        -- (0)
+CV: 39/52/65 SPD: 31/33 CRate: 4/30 CDmg: 0/30 ATK%: 0/35 HP%: 12/35 DEF%: 0/35 ACC: 5/28 
+C-DMG: 4/39 S-DMG: 35/45 A-DMG: 4/45 D-DMG: 4/45 H-DMG: 16/45 T-DMG: 16/51 TANK: 12/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Rare 6* Slot 4 Guard Rune ID: 19907425754 Owner: INV
+Main Stat:   43   CRate
+Prefix Stat: 8    DEF%          -- (8)
+Sub Stat:    21   ATK%     - 0  -- (21/28)
+Sub Stat:    7    CDmg     - 0  -- (10/10)
+Sub Stat:    18   DEF flat - 0  -- (6)
+Sub Stat:    17   ATK flat - 0  -- (5)
+Synergy:                        -- (7)
+CV: 46/64/65 SPD: 0/29 CRate: 0/26 CDmg: 10/26 ATK%: 28/32 HP%: 0/32 DEF%: 8/32 ACC: 0/25 
+C-DMG: 10/39 S-DMG: 10/45 A-DMG: 43/45 D-DMG: 24/45 H-DMG: 10/45 T-DMG: 14/51 TANK: 14/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Swift Rune ID: 28981257825 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    7    CDmg     - 0  -- (10/10)
+Sub Stat:    4    RES      - 0  -- (3/3)
+Sub Stat:    26   ATK%     - 0  -- (26/33)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Synergy:                        -- (0)
+CV: 45/57/65 SPD: 11/33 CRate: 0/30 CDmg: 10/30 ATK%: 33/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 10/39 S-DMG: 21/45 A-DMG: 43/45 D-DMG: 10/45 H-DMG: 10/45 T-DMG: 0/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 5 Guard Rune ID: 27383358191 Owner: INV
+Main Stat:   1530 HP flat
+Sub Stat:    5    ACC      - 0  -- (5/5)
+Sub Stat:    17   HP%      - 0  -- (17/24)
+Sub Stat:    10   DEF flat - 0  -- (3)
+Sub Stat:    13   CRate    - 0  -- (18/18)
+Synergy:                        -- (0)
+CV: 40/50/65 SPD: 0/33 CRate: 18/30 CDmg: 0/30 ATK%: 0/35 HP%: 24/35 DEF%: 0/35 ACC: 5/28 
+C-DMG: 18/39 S-DMG: 18/45 A-DMG: 18/45 D-DMG: 21/45 H-DMG: 42/45 T-DMG: 45/51 TANK: 27/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 6 Energy Rune ID: 29092572721 Owner: INV
+Main Stat:   37   HP%
+Prefix Stat: 5    DEF%          -- (5)
+Sub Stat:    4    ATK%     - 0  -- (4/11)
+Sub Stat:    15   SPD      - 0  -- (21/27)
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Sub Stat:    5    CDmg     - 0  -- (7/7)
+Synergy:                        -- (8)
+CV: 51/64/65 SPD: 27/29 CRate: 6/26 CDmg: 7/26 ATK%: 11/32 HP%: 0/32 DEF%: 5/32 ACC: 0/25 
+C-DMG: 13/39 S-DMG: 40/45 A-DMG: 24/45 D-DMG: 18/45 H-DMG: 13/45 T-DMG: 11/51 TANK: 5/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Swift Rune ID: 28982403042 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    17   ATK%     - 0  -- (17/24)
+Sub Stat:    9    CRate    - 0  -- (13/13)
+Sub Stat:    5    CDmg     - 0  -- (7/7)
+Sub Stat:    140  HP flat  - 0  -- (2)
+Synergy:                        -- (0)
+CV: 37/46/65 SPD: 0/33 CRate: 13/30 CDmg: 7/30 ATK%: 24/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 20/39 S-DMG: 20/45 A-DMG: 44/45 D-DMG: 20/45 H-DMG: 22/45 T-DMG: 15/51 TANK: 2/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 1 Swift Rune ID: 29120444582 Owner: INV
+Main Stat:   99   ATK flat
+Sub Stat:    6    HP%      - 0  -- (6/13)
+Sub Stat:    15   SPD      - 0  -- (21/27)
+Sub Stat:    18   ACC      - 0  -- (18/18)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 51/64/65 SPD: 27/33 CRate: 0/30 CDmg: 6/30 ATK%: 0/35 HP%: 13/35 DEF%: 0/35 ACC: 18/28 
+C-DMG: 6/39 S-DMG: 33/45 A-DMG: 6/45 D-DMG: 6/45 H-DMG: 19/45 T-DMG: 13/51 TANK: 13/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 3 Swift Rune ID: 28224039534 Owner: INV
+Main Stat:   118  DEF flat
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Sub Stat:    26   HP%      - 0  -- (26/33)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Sub Stat:    5    ACC      - 0  -- (5/5)
+Synergy:                        -- (0)
+CV: 44/56/65 SPD: 11/33 CRate: 7/30 CDmg: 0/30 ATK%: 0/35 HP%: 33/35 DEF%: 0/35 ACC: 5/28 
+C-DMG: 7/39 S-DMG: 18/45 A-DMG: 7/45 D-DMG: 7/45 H-DMG: 40/45 T-DMG: 40/51 TANK: 33/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 5 Swift Rune ID: 27299479288 Owner: INV
+Main Stat:   1530 HP flat
+Prefix Stat: 6    HP%           -- (6)
+Sub Stat:    20   CDmg     - 0  -- (28/28)
+Sub Stat:    8    DEF flat - 0  -- (2)
+Sub Stat:    7    ACC      - 0  -- (7/7)
+Sub Stat:    6    SPD      - 0  -- (8/14)
+Synergy:                        -- (0)
+CV: 49/57/65 SPD: 14/33 CRate: 0/30 CDmg: 28/30 ATK%: 0/35 HP%: 6/35 DEF%: 0/35 ACC: 7/28 
+C-DMG: 28/39 S-DMG: 42/45 A-DMG: 28/45 D-DMG: 30/45 H-DMG: 34/45 T-DMG: 8/51 TANK: 8/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 6* Slot 5 Swift Rune ID: 29114614827 Owner: INV
+Main Stat:   1800 HP flat
+Prefix Stat: 19   DEF flat      -- (0)
+Sub Stat:    11   ACC      - 0  -- (11/11)
+Sub Stat:    21   HP%      - 0  -- (21/28)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Sub Stat:    11   ATK%     - 0  -- (11/18)
+Synergy:                        -- (0)
+CV: 49/63/65 SPD: 0/33 CRate: 0/30 CDmg: 6/30 ATK%: 18/35 HP%: 28/35 DEF%: 0/35 ACC: 11/28 
+C-DMG: 6/39 S-DMG: 6/45 A-DMG: 24/45 D-DMG: 6/45 H-DMG: 34/45 T-DMG: 28/51 TANK: 28/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 6 Swift Rune ID: 23394241532 Owner: INV
+Main Stat:   37   HP%
+Sub Stat:    17   CRate    - 0  -- (24/24)
+Sub Stat:    11   ATK%     - 0  -- (11/18)
+Sub Stat:    4    DEF%     - 0  -- (4/11)
+Sub Stat:    4    RES      - 0  -- (3/3)
+Synergy:                        -- (6)
+CV: 48/62/65 SPD: 0/29 CRate: 24/26 CDmg: 0/26 ATK%: 18/32 HP%: 0/32 DEF%: 11/32 ACC: 0/25 
+C-DMG: 24/39 S-DMG: 24/45 A-DMG: 42/45 D-DMG: 35/45 H-DMG: 24/45 T-DMG: 35/51 TANK: 11/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Rare 6* Slot 1 Blade Rune ID: 25918132898 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    14   CDmg     - 0  -- (20/20)
+Sub Stat:    15   HP%      - 0  -- (15/22)
+Sub Stat:    4    ACC      - 0  -- (4/4)
+Sub Stat:    7    RES      - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 45/52/65 SPD: 0/33 CRate: 0/30 CDmg: 20/30 ATK%: 0/35 HP%: 22/35 DEF%: 0/35 ACC: 4/28 
+C-DMG: 20/39 S-DMG: 20/45 A-DMG: 20/45 D-DMG: 20/45 H-DMG: 42/45 T-DMG: 22/51 TANK: 22/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 1 Blade Rune ID: 27700707685 Owner: INV
+Main Stat:   99   ATK flat
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    15   SPD      - 0  -- (21/27)
+Sub Stat:    7    ACC      - 0  -- (7/7)
+Sub Stat:    7    CRate    - 0  -- (10/10)
+Synergy:                        -- (0)
+CV: 50/63/65 SPD: 27/33 CRate: 10/30 CDmg: 0/30 ATK%: 0/35 HP%: 19/35 DEF%: 0/35 ACC: 7/28 
+C-DMG: 10/39 S-DMG: 37/45 A-DMG: 10/45 D-DMG: 10/45 H-DMG: 29/45 T-DMG: 29/51 TANK: 19/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 4 Blade Rune ID: 28788323333 Owner: INV
+Main Stat:   37   ATK%
+Sub Stat:    25   ATK flat - 0  -- (8)
+Sub Stat:    10   CRate    - 0  -- (14/14)
+Sub Stat:    16   DEF%     - 0  -- (16/23)
+Sub Stat:    4    HP%      - 0  -- (4/11)
+Synergy:                        -- (4)
+CV: 38/60/65 SPD: 0/29 CRate: 14/26 CDmg: 0/26 ATK%: 0/32 HP%: 11/32 DEF%: 23/32 ACC: 0/25 
+C-DMG: 14/39 S-DMG: 14/45 A-DMG: 22/45 D-DMG: 37/45 H-DMG: 25/45 T-DMG: 48/51 TANK: 34/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 5 Blade Rune ID: 25761699668 Owner: INV
+Main Stat:   1800 HP flat
+Sub Stat:    16   ATK%     - 0  -- (16/23)
+Sub Stat:    13   DEF%     - 0  -- (13/20)
+Sub Stat:    6    CRate    - 0  -- (8/8)
+Sub Stat:    6    HP%      - 0  -- (6/13)
+Synergy:                        -- (0)
+CV: 43/64/65 SPD: 0/33 CRate: 8/30 CDmg: 0/30 ATK%: 23/35 HP%: 13/35 DEF%: 20/35 ACC: 0/28 
+C-DMG: 8/39 S-DMG: 8/45 A-DMG: 31/45 D-DMG: 28/45 H-DMG: 21/45 T-DMG: 41/51 TANK: 33/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Hero 5* Slot 4 Swift Rune ID: 25672714054 Owner: INV
+Main Stat:   65   CDmg
+Prefix Stat: 11   DEF flat      -- (0)
+Sub Stat:    4    ACC      - 0  -- (4/4)
+Sub Stat:    18   ATK%     - 0  -- (18/25)
+Sub Stat:    9    CRate    - 0  -- (13/13)
+Sub Stat:    6    HP%      - 0  -- (6/13)
+Synergy:                        -- (8)
+CV: 49/63/65 SPD: 0/29 CRate: 13/26 CDmg: 0/26 ATK%: 25/32 HP%: 13/32 DEF%: 0/32 ACC: 4/25 
+C-DMG: 13/39 S-DMG: 13/45 A-DMG: 38/45 D-DMG: 13/45 H-DMG: 26/45 T-DMG: 26/51 TANK: 13/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Unknown 5* Slot 5 Blade Rune ID: 9313887293 Owner: INV
+Main Stat:   1530 HP flat
+Sub Stat:    25   ATK%     - 0  -- (25/32)
+Sub Stat:    7    HP%      - 0  -- (7/14)
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Sub Stat:    6    ACC      - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 45/59/65 SPD: 0/33 CRate: 7/30 CDmg: 0/30 ATK%: 32/35 HP%: 14/35 DEF%: 0/35 ACC: 6/28 
+C-DMG: 7/39 S-DMG: 7/45 A-DMG: 39/45 D-DMG: 7/45 H-DMG: 21/45 T-DMG: 21/51 TANK: 14/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Ancient Hero 16* Slot 5 Blade Rune ID: 28940367877 Owner: INV
+Main Stat:   1800 HP flat
+Sub Stat:    7    ATK%     - 0  -- (7/14)
+Sub Stat:    22   HP%      - 0  -- (22/29)
+Sub Stat:    14   RES      - 0  -- (12/12)
+Sub Stat:    6    CDmg     - 0  -- (8/8)
+Synergy:                        -- (0)
+CV: 49/63/65 SPD: 0/33 CRate: 0/30 CDmg: 8/30 ATK%: 14/35 HP%: 29/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 8/39 S-DMG: 8/45 A-DMG: 22/45 D-DMG: 8/45 H-DMG: 37/45 T-DMG: 29/51 TANK: 29/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 5 Blade Rune ID: 25674157873 Owner: INV
+Main Stat:   1530 HP flat
+Sub Stat:    5    ATK%     - 0  -- (5/12)
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Sub Stat:    18   SPD      - 0  -- (25/31)
+Sub Stat:    14   ATK flat - 0  -- (4)
+Synergy:                        -- (0)
+CV: 36/53/65 SPD: 31/33 CRate: 6/30 CDmg: 0/30 ATK%: 12/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 6/39 S-DMG: 37/45 A-DMG: 22/45 D-DMG: 6/45 H-DMG: 6/45 T-DMG: 6/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Rage Rune ID: 27998991189 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    11   CDmg     - 0  -- (15/15)
+Sub Stat:    15   SPD      - 0  -- (21/27)
+Sub Stat:    6    ACC      - 0  -- (6/6)
+Sub Stat:    5    HP%      - 0  -- (5/12)
+Synergy:                        -- (0)
+CV: 47/60/65 SPD: 27/33 CRate: 0/30 CDmg: 15/30 ATK%: 0/35 HP%: 12/35 DEF%: 0/35 ACC: 6/28 
+C-DMG: 15/39 S-DMG: 42/45 A-DMG: 15/45 D-DMG: 15/45 H-DMG: 27/45 T-DMG: 12/51 TANK: 12/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Rage Rune ID: 28488608750 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    9    DEF%     - 0  -- (9/16)
+Sub Stat:    8    CRate    - 0  -- (11/11)
+Sub Stat:    9    SPD      - 0  -- (13/18)
+Sub Stat:    9    CDmg     - 0  -- (13/13)
+Synergy:                        -- (0)
+CV: 46/58/65 SPD: 18/33 CRate: 11/30 CDmg: 13/30 ATK%: 0/35 HP%: 0/35 DEF%: 16/35 ACC: 0/28 
+C-DMG: 24/39 S-DMG: 42/45 A-DMG: 24/45 D-DMG: 40/45 H-DMG: 24/45 T-DMG: 27/51 TANK: 16/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Rage Rune ID: 27351642925 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    17   DEF%     - 0  -- (17/24)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Sub Stat:    15   SPD      - 0  -- (21/27)
+Sub Stat:    6    RES      - 0  -- (5/5)
+Synergy:                        -- (0)
+CV: 49/62/65 SPD: 27/33 CRate: 0/30 CDmg: 6/30 ATK%: 0/35 HP%: 0/35 DEF%: 24/35 ACC: 0/28 
+C-DMG: 6/39 S-DMG: 33/45 A-DMG: 6/45 D-DMG: 30/45 H-DMG: 6/45 T-DMG: 24/51 TANK: 24/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Rare 6* Slot 4 Rage Rune ID: 26316131977 Owner: INV
+Main Stat:   43   CRate
+Sub Stat:    20   DEF%     - 0  -- (20/27)
+Sub Stat:    7    CDmg     - 0  -- (10/10)
+Sub Stat:    19   DEF flat - 0  -- (6)
+Sub Stat:    7    ACC      - 0  -- (7/7)
+Synergy:                        -- (6)
+CV: 43/56/65 SPD: 0/29 CRate: 0/26 CDmg: 10/26 ATK%: 0/32 HP%: 0/32 DEF%: 27/32 ACC: 7/25 
+C-DMG: 10/39 S-DMG: 10/45 A-DMG: 10/45 D-DMG: 43/45 H-DMG: 10/45 T-DMG: 33/51 TANK: 33/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Rare 6* Slot 5 Rage Rune ID: 26243276325 Owner: INV
+Main Stat:   1800 HP flat
+Sub Stat:    11   CRate    - 0  -- (15/15)
+Sub Stat:    14   DEF%     - 0  -- (14/21)
+Sub Stat:    7    HP%      - 0  -- (7/14)
+Sub Stat:    10   ATK flat - 0  -- (3)
+Synergy:                        -- (0)
+CV: 36/53/65 SPD: 0/33 CRate: 15/30 CDmg: 0/30 ATK%: 0/35 HP%: 14/35 DEF%: 21/35 ACC: 0/28 
+C-DMG: 15/39 S-DMG: 15/45 A-DMG: 18/45 D-DMG: 36/45 H-DMG: 29/45 T-DMG: 50/51 TANK: 35/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 5 Rage Rune ID: 28472291290 Owner: INV
+Main Stat:   1800 HP flat
+Prefix Stat: 5    DEF%          -- (5)
+Sub Stat:    18   DEF flat - 0  -- (6)
+Sub Stat:    18   ATK%     - 0  -- (18/25)
+Sub Stat:    11   CRate    - 0  -- (15/15)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Synergy:                        -- (0)
+CV: 44/62/65 SPD: 11/33 CRate: 15/30 CDmg: 0/30 ATK%: 25/35 HP%: 0/35 DEF%: 5/35 ACC: 0/28 
+C-DMG: 15/39 S-DMG: 26/45 A-DMG: 40/45 D-DMG: 26/45 H-DMG: 15/45 T-DMG: 26/51 TANK: 11/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Focus Rune ID: 19511685505 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    12   CDmg     - 0  -- (17/17)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Sub Stat:    20   ATK%     - 0  -- (20/27)
+Sub Stat:    253  HP flat  - 0  -- (4)
+Synergy:                        -- (0)
+CV: 43/59/65 SPD: 11/33 CRate: 0/30 CDmg: 17/30 ATK%: 27/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 17/39 S-DMG: 28/45 A-DMG: 44/45 D-DMG: 17/45 H-DMG: 21/45 T-DMG: 4/51 TANK: 4/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Ancient Hero 16* Slot 1 Endure Rune ID: 26962064405 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    6    CDmg     - 0  -- (8/8)
+Sub Stat:    10   RES      - 0  -- (9/9)
+Sub Stat:    19   SPD      - 0  -- (27/32)
+Sub Stat:    8    HP%      - 0  -- (8/15)
+Synergy:                        -- (0)
+CV: 52/64/65 SPD: 32/33 CRate: 0/30 CDmg: 8/30 ATK%: 0/35 HP%: 15/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 8/39 S-DMG: 40/45 A-DMG: 8/45 D-DMG: 8/45 H-DMG: 23/45 T-DMG: 15/51 TANK: 15/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Unknown 5* Slot 1 Focus Rune ID: 9857366653 Owner: INV
+Main Stat:   99   ATK flat
+Prefix Stat: 5    HP%           -- (5)
+Sub Stat:    18   SPD      - 0  -- (25/31)
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Sub Stat:    5    ACC      - 0  -- (5/5)
+Sub Stat:    6    ATK%     - 0  -- (6/13)
+Synergy:                        -- (0)
+CV: 47/60/65 SPD: 31/33 CRate: 6/30 CDmg: 0/30 ATK%: 13/35 HP%: 5/35 DEF%: 0/35 ACC: 5/28 
+C-DMG: 6/39 S-DMG: 37/45 A-DMG: 19/45 D-DMG: 6/45 H-DMG: 11/45 T-DMG: 11/51 TANK: 5/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Endure Rune ID: 27408979975 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Sub Stat:    14   SPD      - 0  -- (20/25)
+Sub Stat:    8    CDmg     - 0  -- (11/11)
+Sub Stat:    9    RES      - 0  -- (8/8)
+Synergy:                        -- (0)
+CV: 45/50/65 SPD: 25/33 CRate: 6/30 CDmg: 11/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 17/39 S-DMG: 42/45 A-DMG: 17/45 D-DMG: 17/45 H-DMG: 17/45 T-DMG: 6/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Endure Rune ID: 27471432956 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 102  HP flat       -- (0)
+Sub Stat:    9    CRate    - 0  -- (13/13)
+Sub Stat:    6    ACC      - 0  -- (6/6)
+Sub Stat:    6    CDmg     - 0  -- (8/8)
+Sub Stat:    16   HP%      - 0  -- (16/23)
+Synergy:                        -- (0)
+CV: 43/50/65 SPD: 0/33 CRate: 13/30 CDmg: 8/30 ATK%: 0/35 HP%: 23/35 DEF%: 0/35 ACC: 6/28 
+C-DMG: 21/39 S-DMG: 21/45 A-DMG: 21/45 D-DMG: 21/45 H-DMG: 44/45 T-DMG: 36/51 TANK: 23/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Fatal Rune ID: 28839239395 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    13   SPD      - 0  -- (18/24)
+Sub Stat:    7    ATK%     - 0  -- (7/14)
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 44/64/65 SPD: 24/33 CRate: 7/30 CDmg: 0/30 ATK%: 14/35 HP%: 19/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 7/39 S-DMG: 31/45 A-DMG: 21/45 D-DMG: 7/45 H-DMG: 26/45 T-DMG: 26/51 TANK: 19/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Unknown 5* Slot 3 Fatal Rune ID: 6472852563 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    4    DEF%     - 0  -- (4/11)
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Sub Stat:    21   SPD      - 3  -- (29/31)
+Sub Stat:    3    ACC      - 0  -- (3/3)
+Synergy:                        -- (0)
+CV: 43/52/65 SPD: 31/33 CRate: 7/30 CDmg: 0/30 ATK%: 0/35 HP%: 0/35 DEF%: 11/35 ACC: 3/28 
+C-DMG: 7/39 S-DMG: 38/45 A-DMG: 7/45 D-DMG: 18/45 H-DMG: 7/45 T-DMG: 18/51 TANK: 11/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 5 Fatal Rune ID: 28923869097 Owner: INV
+Main Stat:   1530 HP flat
+Sub Stat:    11   DEF%     - 0  -- (11/18)
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    14   ACC      - 0  -- (14/14)
+Sub Stat:    8    CRate    - 0  -- (11/11)
+Synergy:                        -- (0)
+CV: 48/62/65 SPD: 0/33 CRate: 11/30 CDmg: 0/30 ATK%: 0/35 HP%: 19/35 DEF%: 18/35 ACC: 14/28 
+C-DMG: 11/39 S-DMG: 11/45 A-DMG: 11/45 D-DMG: 29/45 H-DMG: 30/45 T-DMG: 48/51 TANK: 37/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 6* Slot 3 Fatal Rune ID: 28691575678 Owner: INV
+Main Stat:   118  DEF flat
+Sub Stat:    603  HP flat  - 0  -- (10)
+Sub Stat:    11   SPD      - 0  -- (15/21)
+Sub Stat:    15   CRate    - 0  -- (21/21)
+Sub Stat:    8    RES      - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 43/59/65 SPD: 21/33 CRate: 21/30 CDmg: 0/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 21/39 S-DMG: 42/45 A-DMG: 21/45 D-DMG: 21/45 H-DMG: 31/45 T-DMG: 31/51 TANK: 10/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 2 Fatal Rune ID: 28992973889 Owner: INV
+Main Stat:   37   HP%
+Prefix Stat: 5    DEF%          -- (5)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Sub Stat:    18   ATK%     - 0  -- (18/25)
+Sub Stat:    10   SPD      - 0  -- (14/20)
+Sub Stat:    151  HP flat  - 0  -- (2)
+Synergy:                        -- (4)
+CV: 47/62/65 SPD: 20/29 CRate: 0/26 CDmg: 6/26 ATK%: 25/32 HP%: 0/32 DEF%: 5/32 ACC: 0/25 
+C-DMG: 6/39 S-DMG: 26/45 A-DMG: 31/45 D-DMG: 11/45 H-DMG: 8/45 T-DMG: 7/51 TANK: 7/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Despair Rune ID: 25944985251 Owner: INV
+Main Stat:   118  ATK flat
+Prefix Stat: 301  HP flat       -- (0)
+Sub Stat:    12   CDmg     - 0  -- (17/17)
+Sub Stat:    10   SPD      - 0  -- (14/20)
+Sub Stat:    16   ATK%     - 0  -- (16/23)
+Sub Stat:    4    ACC      - 0  -- (4/4)
+Synergy:                        -- (0)
+CV: 51/64/65 SPD: 20/33 CRate: 0/30 CDmg: 17/30 ATK%: 23/35 HP%: 0/35 DEF%: 0/35 ACC: 4/28 
+C-DMG: 17/39 S-DMG: 37/45 A-DMG: 40/45 D-DMG: 17/45 H-DMG: 17/45 T-DMG: 0/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Rare 6* Slot 1 Despair Rune ID: 16878017926 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    11   CRate    - 0  -- (15/15)
+Sub Stat:    10   CDmg     - 0  -- (14/14)
+Sub Stat:    7    ATK%     - 0  -- (7/14)
+Sub Stat:    7    ACC      - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 43/50/65 SPD: 0/33 CRate: 15/30 CDmg: 14/30 ATK%: 14/35 HP%: 0/35 DEF%: 0/35 ACC: 7/28 
+C-DMG: 29/39 S-DMG: 29/45 A-DMG: 43/45 D-DMG: 29/45 H-DMG: 29/45 T-DMG: 15/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Legend 5* Slot 4 Despair Rune ID: 16784307630 Owner: INV
+Main Stat:   51   HP%
+Prefix Stat: 14   DEF flat      -- (0)
+Sub Stat:    13   ATK%     - 0  -- (13/20)
+Sub Stat:    12   RES      - 0  -- (10/10)
+Sub Stat:    8    SPD      - 3  -- (11/13)
+Sub Stat:    16   ACC      - 0  -- (16/16)
+Synergy:                        -- (3)
+CV: 53/62/65 SPD: 13/29 CRate: 0/26 CDmg: 0/26 ATK%: 20/32 HP%: 0/32 DEF%: 0/32 ACC: 16/25 
+C-DMG: 0/39 S-DMG: 13/45 A-DMG: 20/45 D-DMG: 0/45 H-DMG: 0/45 T-DMG: 0/51 TANK: 0/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 3 Despair Rune ID: 28641516711 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 7    HP%           -- (7)
+Sub Stat:    8    CDmg     - 0  -- (11/11)
+Sub Stat:    8    SPD      - 0  -- (11/17)
+Sub Stat:    10   CRate    - 0  -- (14/14)
+Sub Stat:    6    DEF%     - 0  -- (6/13)
+Synergy:                        -- (0)
+CV: 49/62/65 SPD: 17/33 CRate: 14/30 CDmg: 11/30 ATK%: 0/35 HP%: 7/35 DEF%: 13/35 ACC: 0/28 
+C-DMG: 25/39 S-DMG: 42/45 A-DMG: 25/45 D-DMG: 38/45 H-DMG: 32/45 T-DMG: 34/51 TANK: 20/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 5 Despair Rune ID: 28992757652 Owner: INV
+Main Stat:   1800 HP flat
+Prefix Stat: 6    HP%           -- (6)
+Sub Stat:    18   ATK%     - 0  -- (18/25)
+Sub Stat:    5    DEF%     - 0  -- (5/12)
+Sub Stat:    11   CRate    - 0  -- (15/15)
+Sub Stat:    10   ATK flat - 0  -- (3)
+Synergy:                        -- (0)
+CV: 44/61/65 SPD: 0/33 CRate: 15/30 CDmg: 0/30 ATK%: 25/35 HP%: 6/35 DEF%: 12/35 ACC: 0/28 
+C-DMG: 15/39 S-DMG: 15/45 A-DMG: 43/45 D-DMG: 27/45 H-DMG: 21/45 T-DMG: 33/51 TANK: 18/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Hero 5* Slot 2 Despair Rune ID: 18603155908 Owner: INV
+Main Stat:   39   SPD
+Prefix Stat: 10   ATK flat      -- (0)
+Sub Stat:    133  HP flat  - 0  -- (2)
+Sub Stat:    10   DEF%     - 0  -- (10/17)
+Sub Stat:    16   ATK%     - 0  -- (16/23)
+Sub Stat:    7    HP%      - 0  -- (7/14)
+Synergy:                        -- (8)
+CV: 41/64/65 SPD: 0/29 CRate: 0/26 CDmg: 0/26 ATK%: 23/32 HP%: 14/32 DEF%: 17/32 ACC: 0/25 
+C-DMG: 0/39 S-DMG: 0/45 A-DMG: 23/45 D-DMG: 17/45 H-DMG: 16/45 T-DMG: 33/51 TANK: 33/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Vampire Rune ID: 28143988816 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    20   HP%      - 0  -- (20/27)
+Sub Stat:    11   ATK%     - 0  -- (11/18)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Sub Stat:    6    CRate    - 0  -- (8/8)
+Synergy:                        -- (0)
+CV: 45/64/65 SPD: 11/33 CRate: 8/30 CDmg: 0/30 ATK%: 18/35 HP%: 27/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 8/39 S-DMG: 19/45 A-DMG: 26/45 D-DMG: 8/45 H-DMG: 35/45 T-DMG: 35/51 TANK: 27/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Rare 6* Slot 4 Vampire Rune ID: 24585335062 Owner: INV
+Main Stat:   58   CRate
+Prefix Stat: 7    DEF%          -- (7)
+Sub Stat:    11   SPD      - 0  -- (15/21)
+Sub Stat:    14   HP%      - 0  -- (14/21)
+Sub Stat:    202  HP flat  - 0  -- (3)
+Sub Stat:    14   ATK flat - 0  -- (4)
+Synergy:                        -- (7)
+CV: 43/63/65 SPD: 21/29 CRate: 0/26 CDmg: 0/26 ATK%: 0/32 HP%: 21/32 DEF%: 7/32 ACC: 0/25 
+C-DMG: 0/39 S-DMG: 21/45 A-DMG: 4/45 D-DMG: 7/45 H-DMG: 24/45 T-DMG: 31/51 TANK: 31/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Legend 5* Slot 3 Violent Rune ID: 16240771666 Owner: INV
+Main Stat:   135  DEF flat
+Prefix Stat: 3    RES           -- (3)
+Sub Stat:    8    SPD      - 0  -- (11/17)
+Sub Stat:    12   CDmg     - 0  -- (17/17)
+Sub Stat:    12   DEF%     - 0  -- (12/19)
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 50/63/65 SPD: 17/33 CRate: 7/30 CDmg: 17/30 ATK%: 0/35 HP%: 0/35 DEF%: 19/35 ACC: 0/28 
+C-DMG: 24/39 S-DMG: 41/45 A-DMG: 24/45 D-DMG: 43/45 H-DMG: 24/45 T-DMG: 26/51 TANK: 19/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Nemesis Rune ID: 28278695891 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    12   ACC      - 0  -- (12/12)
+Sub Stat:    20   HP%      - 0  -- (20/27)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Sub Stat:    7    ATK%     - 0  -- (7/14)
+Synergy:                        -- (0)
+CV: 45/64/65 SPD: 11/33 CRate: 0/30 CDmg: 0/30 ATK%: 14/35 HP%: 27/35 DEF%: 0/35 ACC: 12/28 
+C-DMG: 0/39 S-DMG: 11/45 A-DMG: 14/45 D-DMG: 0/45 H-DMG: 27/45 T-DMG: 27/51 TANK: 27/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Rare 6* Slot 5 Violent Rune ID: 11029742692 Owner: INV
+Main Stat:   2448 HP flat
+Prefix Stat: 4    SPD           -- (6)
+Sub Stat:    6    CRate    - 0  -- (8/8)
+Sub Stat:    20   HP%      - 0  -- (20/27)
+Sub Stat:    5    DEF%     - 0  -- (5/12)
+Sub Stat:    5    CDmg     - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 46/60/65 SPD: 6/33 CRate: 8/30 CDmg: 7/30 ATK%: 0/35 HP%: 27/35 DEF%: 12/35 ACC: 0/28 
+C-DMG: 15/39 S-DMG: 21/45 A-DMG: 15/45 D-DMG: 27/45 H-DMG: 42/45 T-DMG: 47/51 TANK: 39/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 1 Nemesis Rune ID: 28356618173 Owner: INV
+Main Stat:   99   ATK flat
+Prefix Stat: 6    ACC           -- (6)
+Sub Stat:    5    RES      - 0  -- (4/4)
+Sub Stat:    15   SPD      - 0  -- (21/27)
+Sub Stat:    3    CDmg     - 0  -- (4/4)
+Sub Stat:    15   HP%      - 0  -- (15/22)
+Synergy:                        -- (0)
+CV: 50/63/65 SPD: 27/33 CRate: 0/30 CDmg: 4/30 ATK%: 0/35 HP%: 22/35 DEF%: 0/35 ACC: 6/28 
+C-DMG: 4/39 S-DMG: 31/45 A-DMG: 4/45 D-DMG: 4/45 H-DMG: 26/45 T-DMG: 22/51 TANK: 22/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Nemesis Rune ID: 28328961510 Owner: INV
+Main Stat:   118  ATK flat
+Sub Stat:    5    RES      - 0  -- (4/4)
+Sub Stat:    5    HP%      - 0  -- (5/12)
+Sub Stat:    18   SPD      - 0  -- (25/31)
+Sub Stat:    5    CRate    - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 41/54/65 SPD: 31/33 CRate: 7/30 CDmg: 0/30 ATK%: 0/35 HP%: 12/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 7/39 S-DMG: 38/45 A-DMG: 7/45 D-DMG: 7/45 H-DMG: 19/45 T-DMG: 19/51 TANK: 12/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 5 Nemesis Rune ID: 24633785334 Owner: INV
+Main Stat:   1530 HP flat
+Prefix Stat: 5    ATK%          -- (5)
+Sub Stat:    21   DEF%     - 0  -- (21/28)
+Sub Stat:    8    CDmg     - 0  -- (11/11)
+Sub Stat:    5    SPD      - 0  -- (7/13)
+Sub Stat:    6    ACC      - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 50/63/65 SPD: 13/33 CRate: 0/30 CDmg: 11/30 ATK%: 5/35 HP%: 0/35 DEF%: 28/35 ACC: 6/28 
+C-DMG: 11/39 S-DMG: 24/45 A-DMG: 16/45 D-DMG: 39/45 H-DMG: 11/45 T-DMG: 28/51 TANK: 28/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 5 Nemesis Rune ID: 27997686645 Owner: INV
+Main Stat:   1530 HP flat
+Sub Stat:    6    CRate    - 0  -- (8/8)
+Sub Stat:    9    SPD      - 0  -- (13/18)
+Sub Stat:    4    DEF%     - 0  -- (4/11)
+Sub Stat:    12   CDmg     - 0  -- (17/17)
+Synergy:                        -- (0)
+CV: 42/54/65 SPD: 18/33 CRate: 8/30 CDmg: 17/30 ATK%: 0/35 HP%: 0/35 DEF%: 11/35 ACC: 0/28 
+C-DMG: 25/39 S-DMG: 43/45 A-DMG: 25/45 D-DMG: 36/45 H-DMG: 25/45 T-DMG: 19/51 TANK: 11/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 6 Nemesis Rune ID: 28277618871 Owner: INV
+Main Stat:   37   ATK%
+Prefix Stat: 9    ATK flat      -- (0)
+Sub Stat:    97   HP flat  - 0  -- (1)
+Sub Stat:    4    HP%      - 0  -- (4/11)
+Sub Stat:    21   DEF%     - 0  -- (21/28)
+Sub Stat:    8    SPD      - 0  -- (11/17)
+Synergy:                        -- (6)
+CV: 42/63/65 SPD: 17/29 CRate: 0/26 CDmg: 0/26 ATK%: 0/32 HP%: 11/32 DEF%: 28/32 ACC: 0/25 
+C-DMG: 0/39 S-DMG: 17/45 A-DMG: 0/45 D-DMG: 28/45 H-DMG: 12/45 T-DMG: 40/51 TANK: 40/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 1 Will Rune ID: 27041650655 Owner: INV
+Main Stat:   118  ATK flat
+Prefix Stat: 6    SPD           -- (8)
+Sub Stat:    13   HP%      - 0  -- (13/20)
+Sub Stat:    11   RES      - 0  -- (9/9)
+Sub Stat:    15   ATK%     - 0  -- (15/22)
+Sub Stat:    220  HP flat  - 0  -- (3)
+Synergy:                        -- (0)
+CV: 45/62/65 SPD: 8/33 CRate: 0/30 CDmg: 0/30 ATK%: 22/35 HP%: 20/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 0/39 S-DMG: 8/45 A-DMG: 22/45 D-DMG: 0/45 H-DMG: 23/45 T-DMG: 23/51 TANK: 23/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 1 Will Rune ID: 27340029045 Owner: INV
+Main Stat:   99   ATK flat
+Prefix Stat: 4    CRate         -- (6)
+Sub Stat:    8    SPD      - 0  -- (11/17)
+Sub Stat:    202  HP flat  - 0  -- (3)
+Sub Stat:    14   CDmg     - 0  -- (20/20)
+Sub Stat:    5    RES      - 0  -- (4/4)
+Synergy:                        -- (0)
+CV: 41/50/65 SPD: 17/33 CRate: 6/30 CDmg: 20/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 26/39 S-DMG: 43/45 A-DMG: 26/45 D-DMG: 26/45 H-DMG: 29/45 T-DMG: 9/51 TANK: 3/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Rare 6* Slot 3 Will Rune ID: 28448601359 Owner: INV
+Main Stat:   118  DEF flat
+Prefix Stat: 6    CRate         -- (8)
+Sub Stat:    16   SPD      - 0  -- (22/28)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Sub Stat:    9    DEF%     - 0  -- (9/16)
+Sub Stat:    264  HP flat  - 0  -- (4)
+Synergy:                        -- (0)
+CV: 45/62/65 SPD: 28/33 CRate: 8/30 CDmg: 6/30 ATK%: 0/35 HP%: 0/35 DEF%: 16/35 ACC: 0/28 
+C-DMG: 14/39 S-DMG: 42/45 A-DMG: 14/45 D-DMG: 30/45 H-DMG: 18/45 T-DMG: 28/51 TANK: 20/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 3 Will Rune ID: 27919499408 Owner: INV
+Main Stat:   118  DEF flat
+Sub Stat:    4    ACC      - 0  -- (4/4)
+Sub Stat:    19   SPD      - 0  -- (27/32)
+Sub Stat:    139  HP flat  - 0  -- (2)
+Sub Stat:    4    RES      - 0  -- (3/3)
+Synergy:                        -- (0)
+CV: 34/41/65 SPD: 32/33 CRate: 0/30 CDmg: 0/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 4/28 
+C-DMG: 0/39 S-DMG: 32/45 A-DMG: 0/45 D-DMG: 0/45 H-DMG: 2/45 T-DMG: 2/51 TANK: 2/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 3 Will Rune ID: 25711824014 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 213  HP flat       -- (0)
+Sub Stat:    13   HP%      - 0  -- (13/20)
+Sub Stat:    18   DEF%     - 0  -- (18/25)
+Sub Stat:    5    SPD      - 0  -- (7/13)
+Sub Stat:    7    RES      - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 44/64/65 SPD: 13/33 CRate: 0/30 CDmg: 0/30 ATK%: 0/35 HP%: 20/35 DEF%: 25/35 ACC: 0/28 
+C-DMG: 0/39 S-DMG: 13/45 A-DMG: 0/45 D-DMG: 25/45 H-DMG: 20/45 T-DMG: 45/51 TANK: 45/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 1 Shield Rune ID: 27601431504 Owner: INV
+Main Stat:   99   ATK flat
+Sub Stat:    18   ATK%     - 0  -- (18/25)
+Sub Stat:    11   HP%      - 0  -- (11/18)
+Sub Stat:    5    SPD      - 0  -- (7/13)
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Synergy:                        -- (0)
+CV: 42/62/65 SPD: 13/33 CRate: 6/30 CDmg: 0/30 ATK%: 25/35 HP%: 18/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 6/39 S-DMG: 19/45 A-DMG: 31/45 D-DMG: 6/45 H-DMG: 24/45 T-DMG: 24/51 TANK: 18/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Unknown 5* Slot 1 Revenge Rune ID: 9948411268 Owner: INV
+Main Stat:   99   ATK flat
+Sub Stat:    6    HP%      - 0  -- (6/13)
+Sub Stat:    13   SPD      - 0  -- (18/24)
+Sub Stat:    5    ACC      - 0  -- (5/5)
+Sub Stat:    13   CRate    - 0  -- (18/18)
+Synergy:                        -- (0)
+CV: 47/60/65 SPD: 24/33 CRate: 18/30 CDmg: 0/30 ATK%: 0/35 HP%: 13/35 DEF%: 0/35 ACC: 5/28 
+C-DMG: 18/39 S-DMG: 42/45 A-DMG: 18/45 D-DMG: 18/45 H-DMG: 31/45 T-DMG: 31/51 TANK: 13/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Revenge Rune ID: 27447884142 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 5    CRate         -- (7)
+Sub Stat:    7    RES      - 0  -- (6/6)
+Sub Stat:    6    DEF%     - 0  -- (6/13)
+Sub Stat:    11   CDmg     - 0  -- (15/15)
+Sub Stat:    14   HP%      - 0  -- (14/21)
+Synergy:                        -- (0)
+CV: 48/62/65 SPD: 0/33 CRate: 7/30 CDmg: 15/30 ATK%: 0/35 HP%: 21/35 DEF%: 13/35 ACC: 0/28 
+C-DMG: 22/39 S-DMG: 22/45 A-DMG: 22/45 D-DMG: 35/45 H-DMG: 43/45 T-DMG: 41/51 TANK: 34/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Revenge Rune ID: 27380574410 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 6    DEF%          -- (6)
+Sub Stat:    6    ACC      - 0  -- (6/6)
+Sub Stat:    8    CDmg     - 0  -- (11/11)
+Sub Stat:    7    SPD      - 0  -- (10/15)
+Sub Stat:    13   CRate    - 0  -- (18/18)
+Synergy:                        -- (0)
+CV: 51/56/65 SPD: 15/33 CRate: 18/30 CDmg: 11/30 ATK%: 0/35 HP%: 0/35 DEF%: 6/35 ACC: 6/28 
+C-DMG: 29/39 S-DMG: 44/45 A-DMG: 29/45 D-DMG: 35/45 H-DMG: 29/45 T-DMG: 24/51 TANK: 6/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Legend 6* Slot 3 Revenge Rune ID: 17460346201 Owner: INV
+Main Stat:   160  DEF flat
+Prefix Stat: 163  HP flat       -- (0)
+Sub Stat:    6    CRate    - 0  -- (8/8)
+Sub Stat:    26   DEF%     - 7  -- (26/26)
+Sub Stat:    19   RES      - 0  -- (16/16)
+Sub Stat:    7    HP%      - 0  -- (7/14)
+Synergy:                        -- (0)
+CV: 57/64/65 SPD: 0/33 CRate: 8/30 CDmg: 0/30 ATK%: 0/35 HP%: 14/35 DEF%: 26/35 ACC: 0/28 
+C-DMG: 8/39 S-DMG: 8/45 A-DMG: 8/45 D-DMG: 34/45 H-DMG: 22/45 T-DMG: 48/51 TANK: 40/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 6* Slot 1 Destroy Rune ID: 28460214524 Owner: INV
+Main Stat:   118  ATK flat
+Prefix Stat: 5    ACC           -- (5)
+Sub Stat:    16   CRate    - 0  -- (22/22)
+Sub Stat:    506  HP flat  - 0  -- (8)
+Sub Stat:    12   SPD      - 0  -- (17/22)
+Sub Stat:    8    RES      - 0  -- (7/7)
+Synergy:                        -- (0)
+CV: 51/64/65 SPD: 22/33 CRate: 22/30 CDmg: 0/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 5/28 
+C-DMG: 22/39 S-DMG: 44/45 A-DMG: 22/45 D-DMG: 22/45 H-DMG: 30/45 T-DMG: 30/51 TANK: 8/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 3 Destroy Rune ID: 24816795195 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 3    CRate         -- (4)
+Sub Stat:    9    CDmg     - 0  -- (13/13)
+Sub Stat:    14   HP%      - 0  -- (14/21)
+Sub Stat:    15   DEF%     - 0  -- (15/22)
+Sub Stat:    5    RES      - 0  -- (4/4)
+Synergy:                        -- (0)
+CV: 50/64/65 SPD: 0/33 CRate: 4/30 CDmg: 13/30 ATK%: 0/35 HP%: 21/35 DEF%: 22/35 ACC: 0/28 
+C-DMG: 17/39 S-DMG: 17/45 A-DMG: 17/45 D-DMG: 39/45 H-DMG: 38/45 T-DMG: 47/51 TANK: 43/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Legend 5* Slot 5 Revenge Rune ID: 27408897727 Owner: INV
+Main Stat:   1530 HP flat
+Prefix Stat: 8    ATK flat      -- (0)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Sub Stat:    12   HP%      - 0  -- (12/19)
+Sub Stat:    9    SPD      - 0  -- (13/18)
+Sub Stat:    13   ATK%     - 0  -- (13/20)
+Synergy:                        -- (0)
+CV: 44/63/65 SPD: 18/33 CRate: 0/30 CDmg: 6/30 ATK%: 20/35 HP%: 19/35 DEF%: 0/35 ACC: 0/28 
+C-DMG: 6/39 S-DMG: 24/45 A-DMG: 26/45 D-DMG: 6/45 H-DMG: 25/45 T-DMG: 19/51 TANK: 19/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 3 Destroy Rune ID: 28082851609 Owner: INV
+Main Stat:   99   DEF flat
+Prefix Stat: 7    ACC           -- (7)
+Sub Stat:    4    SPD      - 0  -- (6/11)
+Sub Stat:    5    CDmg     - 0  -- (7/7)
+Sub Stat:    17   CRate    - 0  -- (24/24)
+Sub Stat:    221  HP flat  - 0  -- (3)
+Synergy:                        -- (0)
+CV: 44/52/65 SPD: 11/33 CRate: 24/30 CDmg: 7/30 ATK%: 0/35 HP%: 0/35 DEF%: 0/35 ACC: 7/28 
+C-DMG: 31/39 S-DMG: 42/45 A-DMG: 31/45 D-DMG: 31/45 H-DMG: 34/45 T-DMG: 27/51 TANK: 3/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 3 Destroy Rune ID: 26223440603 Owner: INV
+Main Stat:   99   DEF flat
+Sub Stat:    7    DEF%     - 0  -- (7/14)
+Sub Stat:    14   HP%      - 0  -- (14/21)
+Sub Stat:    14   SPD      - 0  -- (20/25)
+Sub Stat:    3    CDmg     - 0  -- (4/4)
+Synergy:                        -- (0)
+CV: 45/64/65 SPD: 25/33 CRate: 0/30 CDmg: 4/30 ATK%: 0/35 HP%: 21/35 DEF%: 14/35 ACC: 0/28 
+C-DMG: 4/39 S-DMG: 29/45 A-DMG: 4/45 D-DMG: 18/45 H-DMG: 25/45 T-DMG: 35/51 TANK: 35/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 5* Slot 4 Destroy Rune ID: 28222348411 Owner: INV
+Main Stat:   37   ATK%
+Prefix Stat: 7    RES           -- (6)
+Sub Stat:    11   SPD      - 0  -- (15/21)
+Sub Stat:    6    HP%      - 0  -- (6/13)
+Sub Stat:    10   CDmg     - 0  -- (14/14)
+Sub Stat:    5    ACC      - 0  -- (5/5)
+Synergy:                        -- (4)
+CV: 50/63/65 SPD: 21/29 CRate: 0/26 CDmg: 14/26 ATK%: 0/32 HP%: 13/32 DEF%: 0/32 ACC: 5/25 
+C-DMG: 14/39 S-DMG: 35/45 A-DMG: 14/45 D-DMG: 14/45 H-DMG: 27/45 T-DMG: 13/51 TANK: 13/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++15 Hero 5* Slot 6 Fight Rune ID: 25918471821 Owner: INV
+Main Stat:   51   HP%
+Sub Stat:    4    CRate    - 0  -- (6/6)
+Sub Stat:    16   SPD      - 0  -- (22/28)
+Sub Stat:    4    CDmg     - 0  -- (6/6)
+Sub Stat:    13   DEF flat - 0  -- (4)
+Synergy:                        -- (11)
+CV: 45/55/65 SPD: 28/29 CRate: 6/26 CDmg: 6/26 ATK%: 0/32 HP%: 0/32 DEF%: 0/32 ACC: 0/25 
+C-DMG: 12/39 S-DMG: 40/45 A-DMG: 12/45 D-DMG: 16/45 H-DMG: 12/45 T-DMG: 10/51 TANK: 4/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
++12 Hero 6* Slot 3 Fight Rune ID: 25999688306 Owner: INV
+Main Stat:   118  DEF flat
+Prefix Stat: 7    RES           -- (6)
+Sub Stat:    14   CRate    - 0  -- (20/20)
+Sub Stat:    256  HP flat  - 0  -- (4)
+Sub Stat:    11   HP%      - 0  -- (11/18)
+Sub Stat:    7    ACC      - 0  -- (7/7)
+Synergy:                        -- (3)
+CV: 47/58/65 SPD: 0/33 CRate: 20/30 CDmg: 0/30 ATK%: 0/35 HP%: 18/35 DEF%: 0/35 ACC: 7/28 
+C-DMG: 20/39 S-DMG: 20/45 A-DMG: 20/45 D-DMG: 20/45 H-DMG: 42/45 T-DMG: 42/51 TANK: 22/51 
+
+SELL: REMOVE RUNE NOW!!!
+
+--
