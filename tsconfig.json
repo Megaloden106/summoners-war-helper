@@ -5,20 +5,10 @@
     "target": "es6",
     "lib": ["esnext", "dom"],
     "esModuleInterop": true,
-    "strict": true,
+    "forceConsistentCasingInFileNames": true,
     "sourceMap": true,
     "baseUrl": ".",
     "skipLibCheck": true,
-    "paths": {
-      "@/*": ["*"],
-    },
-    "types": [
-      "d3",
-      "node",
-    ],
   },
-  "exclude": [
-    "build",
-    "node_modules",
-  ],
+  "exclude": ["build", "node_modules"]
 }

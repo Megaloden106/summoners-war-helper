@@ -1,4 +1,4 @@
-export enum RuneStat {
+export enum Stat {
   'HP flat' = 1,
   'HP%' = 2,
   'ATK flat' = 3,
@@ -12,7 +12,7 @@ export enum RuneStat {
   'ACC' = 12,
 }
 
-export enum RuneSet {
+export enum ESet {
   'Energy' = 1,
   'Guard' = 2,
   'Swift' = 3,
@@ -37,7 +37,7 @@ export enum RuneSet {
   'Immemorial' = 99,
 }
 
-export enum RuneQuality {
+export enum Quality {
   'Unknown' = 0,
   'Common' = 1,
   'Magic' = 2,
@@ -51,36 +51,9 @@ export enum RuneQuality {
   'Ancient Legend' = 15,
 }
 
-export enum Attributes {
-  'Water' = 1,
-  'Fire' = 2,
-  'Wind' = 3,
-  'Light' = 4,
-  'Dark' = 5,
-}
-
-export enum StatType {
-  'Main' = 'Main',
-  'Prefix' = 'Prefix',
-  'Sub' = 'Sub',
-}
-
-export enum Action {
-  'Keep' = 'KEEP',
-  'Sell' = 'SELL',
-  'Upgrade' = 'UPGRADE',
-  'Reapp' = 'REAPP',
-}
-
-export enum Filter {
-  'Keep' = 'keep',
-  'Sell' = 'sell',
-  'Upgrade' = 'upgrade',
-  'Reapp' = 'reapp',
-  'Upgrade15' = '+15',
-}
-
 export enum Monster {
+  'Inventory' = 0,
+
   'Fairy' = 101,
   'Elucia' = 10111,
   'Iselia' = 10112,
@@ -215,6 +188,7 @@ export enum Monster {
   'Tilasha' = 11615,
 
   'Inferno' = 117,
+  'Unawakened Tagaros' = 11702,
   'Purian' = 11711,
   'Tagaros' = 11712,
   'Anduril' = 11713,
